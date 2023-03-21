@@ -8,7 +8,7 @@ from heapq import nlargest
 
 # Set up the API endpoint and parameters
 url = 'https://newsapi.org/v2/everything'
-api_key = '60daf5b9d1bf49418a61970603fbc739'
+api_key = 'API_KEY'
 query = 'adani'
 
 # Set up the request headers and parameters
